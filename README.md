@@ -2,7 +2,7 @@
 
 Este projeto é resultado de um curso online de Laravel 9 baseado nas informações passadas no canal EspecializaTI, por Carlos Ferreira. Algumas informações foram adaptadas por questões de ambiente de desenvolvimento.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
+- [Canal do Curso Laravel 9 - Especializa TI](https://www.youtube.com/@EspecializatiBr).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
 - Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
 - Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
